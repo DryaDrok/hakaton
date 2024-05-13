@@ -1,0 +1,273 @@
+header {
+  background: no-repeat url("https://i.ibb.co/h9w5nMK/viber-2024-05-07-12-01-37-796.jpg");
+  background-size: 1235px;
+  padding-bottom: 215px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-image: linear-gradient(rgb(255, 181, 21), rgb(255, 218, 163));
+  height: 60px;
+  width: 1225px;
+  position: fixed;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(95, 95, 95);
+}
+
+.logo {
+  height: 270px;
+  width: 370px;
+  margin-top: 123px;
+  margin-left: 55px;
+}
+
+.Ukrainian-retail {
+  color: red;
+  margin-left: 55px;
+  font-size: 20px;
+}
+.donate-Ukraine {
+  display: flex;
+}
+.donate {
+  text-decoration: none;
+  background-color: rgb(21, 238, 119);
+  border-radius: 15px;
+  font-size: 15px;
+  margin-right: 20px;
+  padding-right: 13px;
+  text-align: center;
+
+}
+.franchise {
+  font-size: 55px;
+  color: white;
+  margin-left: 55px;
+}
+
+.years {
+  font-size: 45px;
+  color: white;
+  margin-left: 55px;
+}
+
+.chain-of-stores {
+  color: white;
+  margin-left: 55px;
+  font-size: 25px;
+  bottom: 30px;
+}
+
+.ol {
+  border-radius: 15px;
+  margin-left: 27px;
+  width: 590px;
+  float: left;
+  height: 570px;
+  padding-top: 40px;
+}
+
+.start-business {
+  padding: 30px;
+  margin-right: 387px;
+  color: red;
+  font-size: 20px;
+  float: right;
+  padding: 15px;
+}
+
+.first-million {
+  font-size: 35px;
+  float: right;
+  justify-content: center;
+  margin-right: 193px;
+}
+
+.company {
+  color: rgba(0, 0, 0, 0.637);
+  font-size: 17.5px;
+  justify-content: center;
+  float: right;
+}
+
+.cheking {
+  font-size: 55px;
+  margin-left: 361px;
+  margin-right: 190px;
+}
+
+.business-model {
+  text-align: center;
+  font-size: 45px;
+}
+
+.UAH {
+  font-size: 70px;
+  color: red;
+  margin-left: 530px;
+
+}
+
+.profit-for-year {
+  text-align: center;
+}
+
+.profit {
+  font-size: 17px;
+  margin-left: 650px;
+  margin-bottom: 90px;
+}
+
+.kl {
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.fg {
+  height: 285px;
+  border-radius: 7px;
+}
+
+.nn {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ki {
+  color: red;
+  text-align: center;
+  font-size: 45px;
+}
+
+.bb {
+  height: 300px;
+  margin-left: 485px;
+}
+
+.na {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.footer {
+  background-color: rgb(53, 53, 53);
+}
+
+.lop {
+  height: 70px;
+  left: 30px;
+  top: 30px;
+}
+
+.build-buisness {
+  text-align: center;
+  font-size: 45px;
+}
+
+.marmelade-jack {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.cool-buisness {
+  color: rgb(250, 209, 29);
+  text-align: center;
+}
+
+.Ukraine-map {
+  height: 700px;
+  width: 1000px;
+  margin-left: 120px;
+}
+
+.mp {
+  height: 200px;
+  margin-left: 515px;
+}
+
+.photo-stores {
+  background: no-repeat url("https://i.ibb.co/b1YqmzJ/viber-2024-05-13-16-25-15-926.jpg");
+  background-size: 1255px;
+}
+
+.stores {
+  display: flex;
+  justify-content: space-around;
+}
+
+.store {
+  height: 210px;
+  border-radius: 10px;
+  height: 260px;
+}
+
+.city {
+  color: white;
+}
+
+.money {
+  text-align: center;
+}
+
+.get {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+
+.budget {
+  color: white;
+  font-size: 37px;
+  text-align: center;
+}
+
+.check {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.get-business-plan {
+  background-color: #ffdd1f;
+  text-decoration: none;
+  border-radius: 30px 30px 0px 30px;
+  font-size: 20px;
+  padding: 20px;
+  margin: 10px;
+}
+.choose-city {
+  background-color: #ffffff;
+  text-decoration: none;
+  border-radius: 30px 30px 0px 30px;
+  font-size: 20px;
+  padding: 20px;
+  margin: 10px;
+  color: rgb(177, 177, 177);
+}
+.business-plan {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 150px;
+  margin-right: 100px;
+}
+.get-budget {
+  padding: 90px;
+  background-color: black;
+}
+.discount {
+  color: red;
+}
+.open-business {
+  text-align: center;
+}
+.contacts {
+  color: #ffffff;
+}
